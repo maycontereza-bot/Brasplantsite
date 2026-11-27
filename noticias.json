@@ -1,29 +1,53 @@
 {
-  "atualizado": "25/11/2026",
+  "atualizado": "27/11/2026",
   "itens": [
     {
-      "titulo": "Chuvas atrasam a moagem e puxam preços do etanol e do açúcar",
-      "resumo": "Segundo o Cepea, o excesso de chuva parou temporariamente a moagem em algumas usinas, enquanto etanol e açúcar cristal seguem em alta no mercado paulista.",
-      "fonte": "Canal Rural",
-      "link": "https://canalrural.com.br/agricultura/cana/chuvas-prejudicam-moagem-de-cana-e-precos-do-etanol-e-do-acucar-sobem"
+      "titulo": "Governo descarta falta de etanol anidro na entressafra",
+      "resumo": "O Ministério avaliou que os estoques são suficientes para atravessar o período sem moagem de cana sem risco de desabastecimento.",
+      "fonte": "O Povo",
+      "link": "https://www.opovo.com.br/noticias/economia/2026/11/26/ministerio-afasta-risco-de-desabastecimento-de-etanol-anidro-em-entressafra-de-cana-de-acucar.html"
+    },
+    {
+      "titulo": "Etanol hidratado sobe pela sétima semana seguida",
+      "resumo": "Dados do Cepea mostram demanda firme e alta também no anidro em São Paulo. Chuvas chegaram a parar a moagem em algumas usinas do Centro-Sul.",
+      "fonte": "JornalCana",
+      "link": "https://jornalcana.com.br/mercado/valor-do-etanol-hidratado-para-usinas-registra-a-7a-semana-seguida-de-alta/"
+    },
+    {
+      "titulo": "Primeira cana transgênica da Verian pode chegar em 2027",
+      "resumo": "A variedade traz resistência à broca e tolerância ao glifosato, fruto de dez anos de pesquisa com Unicamp e Embrapa. Ainda precisa do aval da CTNBio.",
+      "fonte": "JornalCana",
+      "link": "https://jornalcana.com.br/agricultura/tecnologia-agricola/cana-transgenica-promete-reduzir-perdas-e-elevar-eficiencia-nas-usinas/"
+    },
+    {
+      "titulo": "IAC vai divulgar o censo varietal da safra 2026/27",
+      "resumo": "O levantamento das variedades mais plantadas e um novo boletim técnico serão apresentados em encontro em Ribeirão Preto (SP).",
+      "fonte": "JornalCana",
+      "link": "https://jornalcana.com.br/eventos/censo-varietal-da-safra-2026-27-sera-apresentado-em-evento-do-iac/"
+    },
+    {
+      "titulo": "Campo responde por cerca de 75% do custo de uma usina",
+      "resumo": "Executivos de Jalles, Adecoagro e Delta apontam produtividade agrícola e custo baixo como chaves para lucrar no próximo ciclo.",
+      "fonte": "NovaCana",
+      "link": "https://www.novacana.com/noticias/o-que-caracteriza-uma-usina-rentavel-executivos-apontam-as-chaves-do-proximo-ciclo"
+    },
+    {
+      "titulo": "Jalles mais que dobra o lucro com ganho de produtividade",
+      "resumo": "No 2º trimestre da safra o lucro subiu 118,8%, mesmo com receita menor. A produtividade média dos canaviais avançou 17,4%, para 86,6 t/ha.",
+      "fonte": "NovaCana",
+      "link": "https://www.novacana.com/noticias/jalles-amplia-lucro-em-118-8-no-2-trimestre-de-2026-27-apesar-de-queda-na-receita"
+    },
+    {
+      "titulo": "Raízen vai antecipar R$ 3 bilhões em pagamento de dívidas",
+      "resumo": "A decisão integra o plano de recuperação extrajudicial e foi atribuída a um caixa acima do previsto. A liquidação está prevista após 18 de dezembro.",
+      "fonte": "JornalCana",
+      "link": "https://jornalcana.com.br/mercado/raizen-aprova-pre-pagamento-de-r-3-bilhoes-em-dividas/"
     },
     {
       "titulo": "Usinas devem investir 7,8% a mais em renovação de canaviais",
-      "resumo": "A indústria de açúcar e etanol deve ampliar os investimentos em renovação de canaviais e manutenção das operações na safra 2026/27, mesmo com rentabilidade menor.",
+      "resumo": "A indústria de açúcar e etanol deve ampliar os gastos com reforma de canaviais e manutenção na safra 2026/27, mesmo com margens menores.",
       "fonte": "Passando a Limpo MT",
       "link": "https://passandoalimpomt.com.br/agronegocio/industria-de-acucar-e-etanol-devera-fechar-2026-com-ampliacao-de-78-em-investimentos/"
-    },
-    {
-      "titulo": "Norte-Nordeste já moeu quase 40% da cana prevista para 2026/27",
-      "resumo": "A NovaBio projeta 59,55 milhões de toneladas na safra, alta de 6,4%, mas o ATR acumulado está 1,2% abaixo do ciclo anterior.",
-      "fonte": "NovaCana",
-      "link": "https://www.novacana.com/noticias/moagem-da-safra-de-cana-2026-27-do-norte-nordeste-se-aproxima-de-40-do-previsto"
-    },
-    {
-      "titulo": "Cana perto de 100 t/ha: o que pode elevar a produtividade",
-      "resumo": "Debate sobre como chegar perto de 100 toneladas por hectare considerando região, ciclo da cultura e sustentabilidade.",
-      "fonte": "Agrolink",
-      "link": "https://agrolink.com.br/noticias/cana-perto-de-100-t-ha--o-que-pode-elevar-a-produtividade_521495.html"
     }
   ]
 }
