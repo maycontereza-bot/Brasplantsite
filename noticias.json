@@ -1,53 +1,35 @@
 {
-  "atualizado": "27/11/2026",
+  "atualizado": "28/11/2026",
   "itens": [
     {
-      "titulo": "Governo descarta falta de etanol anidro na entressafra",
-      "resumo": "O Ministério avaliou que os estoques são suficientes para atravessar o período sem moagem de cana sem risco de desabastecimento.",
-      "fonte": "O Povo",
-      "link": "https://www.opovo.com.br/noticias/economia/2026/11/26/ministerio-afasta-risco-de-desabastecimento-de-etanol-anidro-em-entressafra-de-cana-de-acucar.html"
-    },
-    {
-      "titulo": "Etanol hidratado sobe pela sétima semana seguida",
-      "resumo": "Dados do Cepea mostram demanda firme e alta também no anidro em São Paulo. Chuvas chegaram a parar a moagem em algumas usinas do Centro-Sul.",
-      "fonte": "JornalCana",
-      "link": "https://jornalcana.com.br/mercado/valor-do-etanol-hidratado-para-usinas-registra-a-7a-semana-seguida-de-alta/"
-    },
-    {
-      "titulo": "Primeira cana transgênica da Verian pode chegar em 2027",
-      "resumo": "A variedade traz resistência à broca e tolerância ao glifosato, fruto de dez anos de pesquisa com Unicamp e Embrapa. Ainda precisa do aval da CTNBio.",
-      "fonte": "JornalCana",
-      "link": "https://jornalcana.com.br/agricultura/tecnologia-agricola/cana-transgenica-promete-reduzir-perdas-e-elevar-eficiencia-nas-usinas/"
-    },
-    {
-      "titulo": "IAC vai divulgar o censo varietal da safra 2026/27",
-      "resumo": "O levantamento das variedades mais plantadas e um novo boletim técnico serão apresentados em encontro em Ribeirão Preto (SP).",
-      "fonte": "JornalCana",
-      "link": "https://jornalcana.com.br/eventos/censo-varietal-da-safra-2026-27-sera-apresentado-em-evento-do-iac/"
-    },
-    {
-      "titulo": "Campo responde por cerca de 75% do custo de uma usina",
-      "resumo": "Executivos de Jalles, Adecoagro e Delta apontam produtividade agrícola e custo baixo como chaves para lucrar no próximo ciclo.",
+      "titulo": "Roraima pode ganhar usina de etanol de R$ 2 bilhões",
+      "resumo": "Um grupo investidor planeja uma planta flex em Roraima, começando com 500 milhões de litros por ano e capaz de usar cana, milho e sorgo. O terreno já foi adquirido e o projeto está em licenciamento, com operação prevista para daqui a uns dois anos.",
       "fonte": "NovaCana",
-      "link": "https://www.novacana.com/noticias/o-que-caracteriza-uma-usina-rentavel-executivos-apontam-as-chaves-do-proximo-ciclo"
+      "link": "https://www.novacana.com/noticias/roraima-deve-receber-usina-de-etanol-de-r-2-bilhoes-afirma-secretario"
     },
     {
-      "titulo": "Jalles mais que dobra o lucro com ganho de produtividade",
-      "resumo": "No 2º trimestre da safra o lucro subiu 118,8%, mesmo com receita menor. A produtividade média dos canaviais avançou 17,4%, para 86,6 t/ha.",
+      "titulo": "EUA estudam tarifa acima de 200% no açúcar brasileiro fora da cota",
+      "resumo": "Proposta do governo americano elevaria fortemente a taxa sobre o açúcar bruto do Brasil exportado além da cota, que também foi reduzida para 2027. Vendas dentro da cota não seriam afetadas diretamente; consulta pública vai até 30/12.",
+      "fonte": "Click Petróleo e Gás",
+      "link": "https://clickpetroleoegas.com.br/estados-unidos-preparam-nova-tarifa-que-pode-superar-200-sobre-acucar-brasileiro-e-ameacar-exportacoes-das-usinas-nacionais-vml97/"
+    },
+    {
+      "titulo": "Açúcar recua em Nova York no mês, mas Índia menor dá suporte",
+      "resumo": "O contrato de março fechou novembro cerca de 5% mais barato, enquanto a previsão de safra indiana menor e as chuvas que travaram a moagem no Brasil seguram os preços.",
+      "fonte": "Safras & Mercado",
+      "link": "https://safras.com.br/mercado-internacional-de-acucar-tem-forte-volatilidade-em-novembro-com-perspectiva-de-menor-producao-na-india-e-preocupacoes-climaticas"
+    },
+    {
+      "titulo": "Norte-Nordeste já moeu quase 40% da cana prevista",
+      "resumo": "A região processou cerca de 23 milhões de toneladas até o fim de outubro e projeta crescer 6,4% na safra 2026/27. A maior parte da cana segue indo para etanol.",
       "fonte": "NovaCana",
-      "link": "https://www.novacana.com/noticias/jalles-amplia-lucro-em-118-8-no-2-trimestre-de-2026-27-apesar-de-queda-na-receita"
+      "link": "https://novacana.com/noticias/moagem-da-safra-de-cana-2026-27-do-norte-nordeste-se-aproxima-de-40-do-previsto"
     },
     {
-      "titulo": "Raízen vai antecipar R$ 3 bilhões em pagamento de dívidas",
-      "resumo": "A decisão integra o plano de recuperação extrajudicial e foi atribuída a um caixa acima do previsto. A liquidação está prevista após 18 de dezembro.",
-      "fonte": "JornalCana",
-      "link": "https://jornalcana.com.br/mercado/raizen-aprova-pre-pagamento-de-r-3-bilhoes-em-dividas/"
-    },
-    {
-      "titulo": "Usinas devem investir 7,8% a mais em renovação de canaviais",
-      "resumo": "A indústria de açúcar e etanol deve ampliar os gastos com reforma de canaviais e manutenção na safra 2026/27, mesmo com margens menores.",
-      "fonte": "Passando a Limpo MT",
-      "link": "https://passandoalimpomt.com.br/agronegocio/industria-de-acucar-e-etanol-devera-fechar-2026-com-ampliacao-de-78-em-investimentos/"
+      "titulo": "Cerradinho renova 10% do canavial e usa muda pré-brotada",
+      "resumo": "A usina goiana planeja mais de 6 mil hectares de plantio próprio na safra 2026/27 e reduziu o gasto com mudas e o custo de formação do canavial. Parte das mudas é comprada de viveiros certificados de MPB.",
+      "fonte": "RPAnews",
+      "link": "https://revistarpanews.com.br/cerradinho-bioenergia-mantem-renovacao-em-10-e-avanca-em-eficiencia-no-plantio-de-cana/"
     }
   ]
 }
